@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ced2ec41.chunk.css",
+    "main.js": "/static/js/main.8a4635fe.chunk.js",
+    "main.js.map": "/static/js/main.8a4635fe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07ddf7ff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07ddf7ff.js.map",
+    "static/css/2.4819d237.chunk.css": "/static/css/2.4819d237.chunk.css",
+    "static/js/2.88c7a829.chunk.js": "/static/js/2.88c7a829.chunk.js",
+    "static/js/2.88c7a829.chunk.js.map": "/static/js/2.88c7a829.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d4627d6adbe41281ea6fe9aecc98f2c7.js": "/precache-manifest.d4627d6adbe41281ea6fe9aecc98f2c7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4819d237.chunk.css.map": "/static/css/2.4819d237.chunk.css.map",
+    "static/css/main.ced2ec41.chunk.css.map": "/static/css/main.ced2ec41.chunk.css.map",
+    "static/js/2.88c7a829.chunk.js.LICENSE.txt": "/static/js/2.88c7a829.chunk.js.LICENSE.txt",
+    "static/media/android.png": "/static/media/android.675832e2.png",
+    "static/media/ios.jpg": "/static/media/ios.2e77a981.jpg",
+    "static/media/pic.jpg": "/static/media/pic.b3c59c77.jpg",
+    "static/media/web.jpg": "/static/media/web.bc2f64ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07ddf7ff.js",
+    "static/css/2.4819d237.chunk.css",
+    "static/js/2.88c7a829.chunk.js",
+    "static/css/main.ced2ec41.chunk.css",
+    "static/js/main.8a4635fe.chunk.js"
+  ]
+}
